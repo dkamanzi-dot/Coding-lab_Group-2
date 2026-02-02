@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 === Analysis of Heart Rate ===
-Time: Mon 02 Feb 2026 03:15:23 AM PST
+Time: Mon Feb  2 18:12:00 SAST 2026
 Log file: heart_rate.log
-Total lines: 380382
-=======
-=== Analysis of Water Usage ===
-Time: Mon 02 Feb 2026 02:55:13 AM PST
-Log file: water_usage.log
-Total lines: 224
->>>>>>> 2070cb27c07f860a3b47e259d141f1b96900c908
+Total lines: 380712
 Devices found:
