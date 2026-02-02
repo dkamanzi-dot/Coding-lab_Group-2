@@ -1,5 +1,5 @@
-=== Analysis of Water Usage ===
-Time: Sat Jan 31 20:46:20 SAST 2026
-Log file: water_usage.log
-Total lines: 224
+=== Analysis of Heart Rate ===
+Time: Mon 02 Feb 2026 03:15:23 AM PST
+Log file: heart_rate.log
+Total lines: 380382
 Devices found:
