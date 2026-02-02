@@ -1,4 +1,0 @@
-=== Analysis of Heart Rate ===
-Time: Mon Feb  2 18:46:27 SAST 2026
-Log file: heart_rate.log
-Log file is empty
